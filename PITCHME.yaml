@@ -1,4 +1,4 @@
-# Common Accessibility Errors.
+# Web Accessibility 101
 #
 
 #
@@ -50,7 +50,7 @@ layout : center
 # Footnote Setting
 # Doc: https://gitpitch.com/docs/settings/footnote
 #
-footnote : "Accessibility Techniques | Knowbility 2020"
+footnote : "Web Accessibility 101 | Knowbility 2020"
 
 #
 # Published Setting
@@ -62,5 +62,5 @@ published : true
 # Twitter Card Settings [Pro Only]
 # Doc: https://gitpitch.com/docs/settings/twitter-card
 #
-title : "Accessibility"
-description : "Review of the basic accessibility techniques to make Web content usable by all."
+title : "Web Accessibility 101"
+description : "An Introduction to Web Accessibility"

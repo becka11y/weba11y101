@@ -7,6 +7,10 @@ Starting:  docker run -it -v /Users/bgibson/documents/projects/git/weba11y101:/r
 view speaker notes - add ?n=true to end of url
 https://gitpitch.com/onetapbeyond/gen_metrics?n=true
 
+Add notes via:
+Note:
+ info for note
+ 
 style helpers:  https://gitpitch.com/docs/themes/css-utility-styles/
 
 Note: headings need separate styles. 

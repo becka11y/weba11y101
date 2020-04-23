@@ -47,4 +47,10 @@ User<br>Experience
 @box[bg-purple text-white rounded](Independence)
 
 @snapend
+---
+@snap[north span-80]
+## It's About People
+@snapend
+
+![Accessibility Frustrations](https://player.vimeo.com/video/411158288)
 
