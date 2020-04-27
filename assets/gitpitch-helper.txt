@@ -28,6 +28,8 @@ Color
 
 #### Dynamite Deals - @color[#DC143C](Short Fuses) Included!  - inline text color change
 
+Text box
+@box[bg-purple text-white rounded fragment](With comparable ease?)
 
 Quote
 @quote[It's what I do that defines me.](Bruce Wayne)

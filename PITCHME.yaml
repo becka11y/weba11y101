@@ -43,7 +43,8 @@ highlight: tomorrow
 #
 layout : center
 
-
+## language setting
+lang : "en"
 
 #
 

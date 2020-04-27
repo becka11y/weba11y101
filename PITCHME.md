@@ -1,7 +1,7 @@
 ---?image=assets/img/tool-1957451_1280.jpg&size=cover
 
 @snap[west span-75 h1-dkpurple]
-# @size[0.3em](Presentation title)
+# @size[0.3em](Web Accessibility 101 - Day 1)
 @snapend
 
 
@@ -61,7 +61,7 @@ Note: All links open in new window
 @snapend
 
 @snap[midpoint span-70]
-@img[a plus 11 letters plus y represents accessibility](/assets/img/a11y-numeronym.png)
+![a plus 11 letters plus y represents accessibility](/assets/img/a11y-numeronym.png)
 @snapend
 Note: A number-based Word. Other examples: W3, I18N, K9, Y2K
 
@@ -69,4 +69,37 @@ Note: A number-based Word. Other examples: W3, I18N, K9, Y2K
 
 ---?include=common/businessCase/PITCHME.md
 
+---?include=common/regulations-WCAG/PITCHME.md
+
+---
+@snap[north vh]
+## Break
+@snapend
+
+@snap[south span-100]
+![keyboard key with the text of Break and icon of coffee cup](assets/img/keyboard-break.jpg)
+@snapend
+
 ---?include=common/HowPWDUseTech/PITCHME.md
+
+---?include=common/designForA11y/PITCHME.md
+
+---?color=#36173A
+## Day 2
+
+---
+@snap[north span-80]
+## Techniques for Content Authors
+@snapend
+
+@ul
+- Alt text for Images
+- Structure and Hierarchy
+- Link Text
+@ulend
+
+---?include=common/techniques/alt-text/PITCHME.md
+
+---?include=common/techniques/headings/PITCHME.md
+
+---?include=common/techniques/link-text/PITCHME.md

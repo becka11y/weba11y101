@@ -1,6 +1,8 @@
 
 .text-purple { color: #36173A !important; }
 
+.text-know-orange { color:#EC7E22 !important;}
+
 .bg-purple {
     background: #36173A !important;
 }
@@ -37,6 +39,7 @@
 	text-decoration: underline;
 	
 }
+
 .vh {
   position: absolute !important;
   overflow: hidden !important;
@@ -47,6 +50,7 @@
   padding: 0 !important;
   border: 0 !important;
 }
+
 
 img[alt="Knowbility"] {
     width: 500px;

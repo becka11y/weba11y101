@@ -1,0 +1,8 @@
+﻿Control,Navigate Forward,Navigate Backward,Activate/Select
+Button,Tab,Shift-tab,Enter or Space
+Radio,Arrow right,Arrow left,Focus selects
+Checkbox,Tab,Shift-tab,Space
+Select,Arrow down,Arrow up,Enter; Escape to close
+Range slider,Arrow right; Page down; End,Arrow left; Page up; Home, 
+Links,Tab,Shift-tab,Enter
+Popup,Tab,Shift-tab,Escape to close

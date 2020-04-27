@@ -112,6 +112,15 @@ Note: JAWS, NVDA, Narrator - Windows; VoiceOver - Mac and iOS; Talkback - Androi
 ![text to speech example](https://www.youtube.com/embed/8Rn5pXCdZWU)
 
 ---
+
+@snap[north span-90]
+## @size[0.85em](The Importance of Captions)
+@snapend
+
+
+![captioning example](https://www.youtube.com/embed/33krnU_juFE)
+
+---
 @snap[north vh]
 ## Great quote
 @snapend

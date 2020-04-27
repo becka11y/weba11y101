@@ -65,7 +65,7 @@
 @snap[north span-80 text-white]
 ## What Companies openly include PWD
 @snapend
-@snap[midpoint text-50 text-orange]
+@snap[midpoint text-50 text-know-orange font-work-sans-medium]
 ?
 @snapend
 
@@ -106,7 +106,7 @@ Note: MS, Apple, TD Bank, Disney
 @snap[west span-60 text-white]
 ## What are some benefits of accessible technologies
 @snapend
-@snap[east span-40 text-50 text-orange text-left]
+@snap[east span-40 text-50 text-know-orange text-left font-work-sans-medium]
 ?
 @snapend
 
