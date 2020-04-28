@@ -103,3 +103,23 @@ Note: A number-based Word. Other examples: W3, I18N, K9, Y2K
 ---?include=common/techniques/headings/PITCHME.md
 
 ---?include=common/techniques/link-text/PITCHME.md
+
+---
+@snap[north span-80]
+## Techniques for Developers
+@snapend
+
+@ul
+- Semantic HTML
+- Title and Language of Page
+- Form Labels
+- Keyboard
+- Tables
+- Relative Units
+- Responsive Design
+@ulend
+
+---?include=common/techniques/semantic-html/PITCHME.md
+
+---?include=common/techniques/title-and-language/PITCHME.md
+

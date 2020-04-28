@@ -38,6 +38,17 @@ Images must be less than 1 MB
 optimize images - tinypng.com
 ![alt text](image path or url)
 
+Alt text, etc:
+
+To activate alt text on an image use the alt= property on your image markdown as follows:
+![alt=Your custom alt text](path/to/file.png)
+If the alt property is not explicitly set then the alt attribute is disabled on the corresponding image tag as follows <img src="xxx" alt />.
+
+This new property can be used in conjunction with any of the existing properties, for example:
+
+![width=400, alt=Cloud deployment architecture diagram](path/to/file.svg)
+
+
 inline videos - !!must be streamed (from a service)!! (mp4-fixed-size is a style in local pitchme.css)
 @snap[midpoint mp4-fixed-size]
 ![Video described on the next slide.](https://knowbility.org/assets/blog/WCAG21-252-example.mp4)
