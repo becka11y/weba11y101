@@ -80,7 +80,7 @@ Note: A number-based Word. Other examples: W3, I18N, K9, Y2K
 ![keyboard key with the text of Break and icon of coffee cup](assets/img/keyboard-break.jpg)
 @snapend
 
----?include=common/HowPWDUseTech/PITCHME.md
+---?include=common/howPWDUseTech/PITCHME.md
 
 ---?include=common/designForA11y/PITCHME.md
 
