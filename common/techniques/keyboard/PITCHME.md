@@ -1,3 +1,5 @@
+---?color=#36173A
+## Keyboard
 ---
 @snap[north span-80]
 ## Put Down your Mouse!
@@ -8,7 +10,7 @@
 @snapend
 
 @snap[east fragment span-50]
-![screen shot of menu item with focus outline](assets/img/techniques/keyboard/show-focus.png)
+![alt=screen shot of menu item with focus outline](common/techniques/keyboard/img/show-focus.png)
 @snapend
 
 @snap[south-east fragment text-12]
@@ -22,5 +24,5 @@
 @snapend
 
 @snap[midpoint span-100 text-06]
-@table[table-header custom-row custom-header](assets/other/keyboard-table.csv)
+@table[table-header custom-row custom-header](common/techniques/keyboard/other/keyboard-table.csv)
 @snapend

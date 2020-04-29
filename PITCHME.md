@@ -123,3 +123,7 @@ Note: A number-based Word. Other examples: W3, I18N, K9, Y2K
 
 ---?include=common/techniques/title-and-language/PITCHME.md
 
+---?include=common/techniques/form-labels/PITCHME.md
+
+---?include=common/techniques/keyboard/PITCHME.md
+

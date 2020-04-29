@@ -8,7 +8,7 @@
 @snapend
 
 @snap[midpoint span-80 fragment]
-![screen shot of VO panel with focus on empty field](assets/img/techniques/form-labels/form-label-poor-VO.png)
+![screen shot of VO panel with focus on empty field](common/techniques/form-labels/img/form-label-poor-VO.png)
 @snapend
 
 Note: Run the VO live example before exposing the fragment!
@@ -20,11 +20,11 @@ Form has no programmatically associated label, no programmatic indication of req
 @snapend
 
 @snap[west span-40]
-![screen shot of registration form](assets/img/techniques/form-labels/form-label-poor.png)
+![screen shot of registration form](common/techniques/form-labels/img/form-label-poor.png)
 @snapend
 
 @snap[east span-40]
-![screen shot of registration form zoomed](assets/img/techniques/form-labels/form-label-zoomed.png)
+![screen shot of registration form zoomed](common/techniques/form-labels/img/form-label-zoomed.png)
 @snapend
 
 ---
