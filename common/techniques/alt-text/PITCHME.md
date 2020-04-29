@@ -105,6 +105,30 @@ Note: DON'T use placeholder text - it never gets fixed!
 ```
 
 @snapend
+
+color gradient vertical
+---?color=linear-gradient(90deg, white 50%, #36173A 50%)
+@snap[north-west span-50]
+## Charts and Graphics
+@snapend
+
+@snap[west span-50 text-08]
+@ul
+- describe in text
+- provide link to long description
+- add keyboard support to data points
+- link to data table
+- don't rely on color alone
+@ulend
+@snapend
+
+@snap[east span-50]
+![alt=world electricity generation by source pie chart](common/techniques/alt-text/img/World_electricity_generation_by_source_pie_chart.png)
+@snapend
+
+@snap[south-east span-50 text-04 text-white]
+Chart CC0 by [Delphi234](https://commons.wikimedia.org/wiki/File:World_electricity_generation_by_source_pie_chart.svg)
+@snapend
 ---
 @snap[north span-80]
 ## Add within CMS

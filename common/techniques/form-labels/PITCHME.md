@@ -82,3 +82,11 @@ Screen reader does **NOT** hear the "star"
 does hear "required"
 @snapend
 
+---
+@snap[north span-80]
+## Another Label Technique
+@snapend
+
+@snap[midpoint span-80]
+[Avoid Placeholder Text by Animating Form Labels](https://knowbility.org/blog/2019/animating-form-labels/)
+@snapend

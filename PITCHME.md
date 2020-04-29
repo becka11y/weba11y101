@@ -105,5 +105,50 @@ Note: A number-based Word. Other examples: W3, I18N, K9, Y2K
 Note: All links open in new window
 @snapend
 
+---
+@snap[north span-80]
+## Techniques for Content Authors
+@snapend
 
+@ul
+- Alt text for Images
+- Structure and Hierarchy
+- Link Text
+@ulend
 
+---?include=common/techniques/alt-text/PITCHME.md
+
+---?include=common/techniques/headings/PITCHME.md
+
+---?include=common/techniques/link-text/PITCHME.md
+
+---
+@snap[north span-80]
+## Techniques for Developers
+@snapend
+
+@ul
+- Semantic HTML
+- Title and Language of Page
+- Form Labels
+- Keyboard
+- Tables
+- Relative Units
+- Responsive Design
+@ulend
+
+---?include=common/techniques/semantic-html/PITCHME.md
+
+---?include=common/techniques/title-and-language/PITCHME.md
+
+---?include=common/techniques/form-labels/PITCHME.md
+
+---?include=common/techniques/keyboard/PITCHME.md
+
+---?include=common/techniques/tables/PITCHME.md
+
+---?include=common/techniques/relative-units/PITCHME.md
+
+---?include=common/techniques/responsive-design/PITCHME.md
+
+---?include=common/techniques/testing/PITCHME.md
