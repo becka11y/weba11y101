@@ -35,7 +35,7 @@ Note: automated tools only catch about 30% of errors
 ## Automated Testing 
 @snapend
 
-@ul[text-white]()
+@ul
 - Color Contrast
   - WAVE or aXE
 - General code issues - aXe
@@ -46,6 +46,7 @@ Note: automated tools only catch about 30% of errors
   - proper landmarks
   - missing alt text
 @ulend
+
 ---?color=#36173A
 @snap[north span-80]
 ## Manual Testing

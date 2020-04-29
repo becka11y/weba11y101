@@ -152,3 +152,15 @@ Note: All links open in new window
 ---?include=common/techniques/responsive-design/PITCHME.md
 
 ---?include=common/techniques/testing/PITCHME.md
+
+---?color=#36173A
+@snap[north span-80 text-white]
+## Done!
+@snapend
+@snap[midpoint text-40 text-know-orange font-work-sans-medium]
+Thanks
+@snapend
+
+@snap[south-east span-80 text-08]
+<a href="mailto:becky@knowbility.org">becky@knowbility.org</a>
+@snapend
