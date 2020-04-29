@@ -120,7 +120,19 @@ Note: JAWS, NVDA, Narrator - Windows; VoiceOver - Mac and iOS; Talkback - Androi
 
 ![captioning example](https://www.youtube.com/embed/33krnU_juFE)
 
+
+
 ---
+
+@snap[north span-90]
+## @size[0.85em](Switch Control Demo)
+@snapend
+
+
+![Christopher Hills switch control demo](https://www.youtube.com/embed/GQKEE9nI1lk)
+
+---
+
 @snap[north vh]
 ## Great quote
 @snapend

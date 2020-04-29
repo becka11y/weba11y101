@@ -26,7 +26,7 @@
 @snapend
 
 @snap[east span-40]
-![man with magnet attacting currency bills](common/businessCase/img/man-money-magnet.jpg)
+![alt=man with magnet attacting currency bills](common/businessCase/img/man-money-magnet.jpg)
 @snapend
 
 @snap[south-west span-80 text-04 fragment]
@@ -54,11 +54,11 @@
 @snapend
 
 @snap[east span-40]
-![man with magnet attacting currency bills](common/businessCase/img/growth-3078544_1280.png)
+![alt=man with magnet attacting currency bills](common/businessCase/img/growth-3078544_1280.png)
 @snapend
 
 @snap[south-east span-60 text-04 fragment]
-- [How to Attract and Maintain Customer Loyalty](https://odenetwork.com/news/how-to-attract-maintain-customer-loyalty), June 2018 
+[How to Attract and Maintain Customer Loyalty](https://odenetwork.com/news/how-to-attract-maintain-customer-loyalty), June 2018 
 @snapend
 
 ---?color=#36173A
@@ -87,7 +87,7 @@ Note: MS, Apple, TD Bank, Disney
 @snapend
 
 @snap[south-east span-60 text-04 fragment]
-- [How much do bugs cost to fix during each phase of the SDLC?](https://www.synopsys.com/blogs/software-security/cost-to-fix-bugs-during-each-sdlc-phase/), January 2017 
+[How much do bugs cost to fix during each phase of the SDLC?](https://www.synopsys.com/blogs/software-security/cost-to-fix-bugs-during-each-sdlc-phase/), January 2017 
 @snapend
 
 ---
@@ -144,4 +144,3 @@ Discuss Dominos and supreme court
 @box[bg-purple text-white rounded font-Roboto text-15](It's the Right Thing to Do!)
 @snapend
 
----

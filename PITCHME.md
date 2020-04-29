@@ -84,46 +84,26 @@ Note: A number-based Word. Other examples: W3, I18N, K9, Y2K
 
 ---?include=common/designForA11y/PITCHME.md
 
----?color=#36173A
-## Day 2
-
 ---
-@snap[north span-80]
-## Techniques for Content Authors
+@snap[north]
+## Agenda - Day 2
 @snapend
 
-@ul
-- Alt text for Images
-- Structure and Hierarchy
-- Link Text
+@snap[midpoint span-80 text-08]
+@ul[](false)
+- 10:00 - Brief Introduction
+- 10:10 - Techniques for Content Authors
+- 10:30 - Techniques for Developers
+- 11:15 - Break
+- 11:30 - Testing for Accessibility
+- 12:00 - Review of site
+- 12:30 - Be Done
 @ulend
-
----?include=common/techniques/alt-text/PITCHME.md
-
----?include=common/techniques/headings/PITCHME.md
-
----?include=common/techniques/link-text/PITCHME.md
-
----
-@snap[north span-80]
-## Techniques for Developers
 @snapend
 
-@ul
-- Semantic HTML
-- Title and Language of Page
-- Form Labels
-- Keyboard
-- Tables
-- Relative Units
-- Responsive Design
-@ulend
+@snap[south-east span-50 text-06 text-purple]
+Note: All links open in new window
+@snapend
 
----?include=common/techniques/semantic-html/PITCHME.md
 
----?include=common/techniques/title-and-language/PITCHME.md
-
----?include=common/techniques/form-labels/PITCHME.md
-
----?include=common/techniques/keyboard/PITCHME.md
 

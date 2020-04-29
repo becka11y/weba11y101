@@ -23,7 +23,7 @@
 @snapend
 
 @snap[east]
-![water pouring into wine glass](/common/regulations-WCAG/img/glass-783680_1280.jpg)
+![alt=water pouring into wine glass](/common/regulations-WCAG/img/glass-783680_1280.jpg)
 @snapend
 
 ---
@@ -94,9 +94,9 @@
 
 @snap[west span-40 text-08]
 @ul[list-no-bullets](false)
-- 2.1 Readable
-- 2.2 Predictable
-- 2.3 Input Assistance
+- 3.1 Readable
+- 3.2 Predictable
+- 3.3 Input Assistance
 
 @ulend
 @snapend
