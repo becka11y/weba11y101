@@ -1,7 +1,7 @@
 ---?image=assets/img/tool-1957451_1280.jpg&size=cover
 
 @snap[west span-75 h1-dkpurple]
-# @size[0.3em](Web Accessibility 101 - Day 1)
+# @size[0.3em](Web Accessibility 101)
 @snapend
 
 
