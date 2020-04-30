@@ -20,9 +20,10 @@ Note: automated tools only catch about 30% of errors
 ## Testing Tools
 @snapend
 
-@ul[](false)
+@ul[text-08](false)
 - Quick tests: [Beyond automatic accessibility testing: 6 things I check on every website I build](https://www.matuzo.at/blog/beyond-automatic-accessibility-testing-6-things-i-check-on-every-website-i-build/)
 - [Paul Adams Bookmarklets](http://www.pauljadam.com/bookmarklets/)
+- [axe from Deque](https://www.deque.com/axe/)
 - [MS Accessibility Insights for Web](https://accessibilityinsights.io/docs/en/web/overview)
 - [Landmarks Extension](https://github.com/matatk/landmarks)
 - [WebAIM WAVE Extension](https://wave.webaim.org/extension/)
